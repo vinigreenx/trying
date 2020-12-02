@@ -1,4 +1,1 @@
-$a="powershell"
-$b="-EncodedCommand"
-$c="cABpAG4AZwAgADgALgA4AC4AOAAuADgA"
-$command= $a+" $b"+" $c"
+Powershell.exe -EncodedCommand cABpAG4AZwAgADgALgA4AC4AOAAuADgA
